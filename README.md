@@ -1,4 +1,4 @@
-# ¡Hola! 👋
+¡Hola, Soy Damián Nicolás ^^!
 
 Soy estudiante de desarrollo de software con interés en automatización, inteligencia artificial y análisis de datos.
 
