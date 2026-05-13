@@ -25,13 +25,6 @@
 
 ---
 
-## 📈 Estadísticas
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  
----
-
 ## 🌱 Objetivos
 
 - Construir proyectos reales
