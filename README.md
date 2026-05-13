@@ -34,6 +34,17 @@
 
 ---
 
-## 📫 Contacto
+## 📌 Información
 
-- GitHub: [@Damico707](https://github.com/Damico707)
+📧 Email: tucorreo@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/dami%C3%A1n-nicol%C3%A1s-rangel-navas-388a683b6/
+🌐 Portafolio:  
+🐙 GitHub: https://github.com/Damico707 
+
+---
+
+## ✨ Sobre mí
+
+Me gusta aprender constantemente y siempre renovar mi conocimiento; experimentar con nuevas herramientas y transformar ideas en proyectos funcionales. 
+Soy creativo y apasionado en todos mis proyectos, siempre me caracteriza la determinacion, organizacion y atencion al detalle
+
