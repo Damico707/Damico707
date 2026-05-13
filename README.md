@@ -1,16 +1,42 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**Damico707/Damico707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de desarrollo de software con interés en automatización, inteligencia artificial y análisis de datos.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo y construyendo proyectos con tecnologías como Python, Java, JavaScript y MySQL mientras sigo mejorando mis habilidades paso a paso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+
+- Python
+- JavaScript
+- Java
+- MySQL
+- HTML & CSS
+- Git & GitHub
+- n8n
+
+---
+
+## 📚 Actualmente enfocado en
+
+- Automatización de procesos
+- Inteligencia artificial
+- Manejo y análisis de datos
+- Desarrollo backend
+- Buenas prácticas de programación
+
+---
+
+## 🎯 Objetivos
+
+- Seguir construyendo proyectos reales
+- Mejorar mi lógica de programación
+- Aprender más sobre automatización e IA
+- Crecer como desarrollador día a día
+
+---
+
+## 📌 Sobre mí
+
+Me gusta aprender constantemente, experimentar con nuevas herramientas y transformar ideas en proyectos funcionales.
